@@ -1,0 +1,30 @@
+98999999999
+
+988 999 9999
+
+988-999-9999
+\d{3}[-\s]*\d{3}[-\s]*\d{4} # for numbers
+
+(988)-999-9999
+\(*\d{3}\)*[-\s]*\d{3}[-\s]*\d{4}  # using character \ for (
+
+
+https://github.com
+https://www.github.com
+https://github.com/upessocs
+https://github.com/upessocs/B3B4
+https*://(\w+).\w+/(\w+)/(\w+)  # for website link
+
+1234567890gmail.com
+
+
+simran.soundik@gmail.com
+
+dem234o@gmail.com
+
+de_mo@gmail.com
+
+demo@gmail.com
+([\w.]+)@[\w.]+  # for email
+
+
